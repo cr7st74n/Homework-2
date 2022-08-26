@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/Portfolio-Cristian-Gonzalez/static/css/main.e1aca8f5.css",
-    "main.js": "/Portfolio-Cristian-Gonzalez/static/js/main.3bb81c0d.js",
+    "main.css": "/Portfolio-Cristian-Gonzalez/static/css/main.ea1dbc8c.css",
+    "main.js": "/Portfolio-Cristian-Gonzalez/static/js/main.ab9c13de.js",
     "static/js/787.30237536.chunk.js": "/Portfolio-Cristian-Gonzalez/static/js/787.30237536.chunk.js",
     "static/media/img-aside.png": "/Portfolio-Cristian-Gonzalez/static/media/img-aside.d8029f78ce467367815b.png",
+    "static/media/project gym.png": "/Portfolio-Cristian-Gonzalez/static/media/project gym.f0ebf0761fe29312cb69.png",
     "index.html": "/Portfolio-Cristian-Gonzalez/index.html",
-    "main.e1aca8f5.css.map": "/Portfolio-Cristian-Gonzalez/static/css/main.e1aca8f5.css.map",
-    "main.3bb81c0d.js.map": "/Portfolio-Cristian-Gonzalez/static/js/main.3bb81c0d.js.map",
+    "main.ea1dbc8c.css.map": "/Portfolio-Cristian-Gonzalez/static/css/main.ea1dbc8c.css.map",
+    "main.ab9c13de.js.map": "/Portfolio-Cristian-Gonzalez/static/js/main.ab9c13de.js.map",
     "787.30237536.chunk.js.map": "/Portfolio-Cristian-Gonzalez/static/js/787.30237536.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e1aca8f5.css",
-    "static/js/main.3bb81c0d.js"
+    "static/css/main.ea1dbc8c.css",
+    "static/js/main.ab9c13de.js"
   ]
 }
