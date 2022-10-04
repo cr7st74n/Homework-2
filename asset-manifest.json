@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Portfolio-Cristian-Gonzalez/static/css/main.ea1dbc8c.css",
-    "main.js": "/Portfolio-Cristian-Gonzalez/static/js/main.aedf09ad.js",
+    "main.css": "/Portfolio-Cristian-Gonzalez/static/css/main.709449f2.css",
+    "main.js": "/Portfolio-Cristian-Gonzalez/static/js/main.a80cfba0.js",
     "static/js/787.30237536.chunk.js": "/Portfolio-Cristian-Gonzalez/static/js/787.30237536.chunk.js",
     "static/media/img-aside.png": "/Portfolio-Cristian-Gonzalez/static/media/img-aside.d8029f78ce467367815b.png",
     "static/media/project gym.png": "/Portfolio-Cristian-Gonzalez/static/media/project gym.f0ebf0761fe29312cb69.png",
     "static/media/project_B.png": "/Portfolio-Cristian-Gonzalez/static/media/project_B.1c6bdb4b28c5519f457c.png",
     "index.html": "/Portfolio-Cristian-Gonzalez/index.html",
-    "main.ea1dbc8c.css.map": "/Portfolio-Cristian-Gonzalez/static/css/main.ea1dbc8c.css.map",
-    "main.aedf09ad.js.map": "/Portfolio-Cristian-Gonzalez/static/js/main.aedf09ad.js.map",
+    "main.709449f2.css.map": "/Portfolio-Cristian-Gonzalez/static/css/main.709449f2.css.map",
+    "main.a80cfba0.js.map": "/Portfolio-Cristian-Gonzalez/static/js/main.a80cfba0.js.map",
     "787.30237536.chunk.js.map": "/Portfolio-Cristian-Gonzalez/static/js/787.30237536.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ea1dbc8c.css",
-    "static/js/main.aedf09ad.js"
+    "static/css/main.709449f2.css",
+    "static/js/main.a80cfba0.js"
   ]
 }
