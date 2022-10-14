@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Portfolio-Cristian-Gonzalez/static/css/main.ec9cc455.css",
-    "main.js": "/Portfolio-Cristian-Gonzalez/static/js/main.ce4a94bb.js",
+    "main.css": "/Portfolio-Cristian-Gonzalez/static/css/main.037b2612.css",
+    "main.js": "/Portfolio-Cristian-Gonzalez/static/js/main.12025089.js",
     "static/js/787.30237536.chunk.js": "/Portfolio-Cristian-Gonzalez/static/js/787.30237536.chunk.js",
     "static/media/FitSpaceG.gif": "/Portfolio-Cristian-Gonzalez/static/media/FitSpaceG.3b86ca9c05ac635d1897.gif",
     "static/media/SuperStockMagic.gif": "/Portfolio-Cristian-Gonzalez/static/media/SuperStockMagic.fda324102defd99b2bbc.gif",
@@ -10,12 +10,12 @@
     "static/media/APIDev_SN.png": "/Portfolio-Cristian-Gonzalez/static/media/APIDev_SN.740224fe063e37661038.png",
     "static/media/Full_Stack_parche.png": "/Portfolio-Cristian-Gonzalez/static/media/Full_Stack_parche.6658b1a1bbdeee93b372.png",
     "index.html": "/Portfolio-Cristian-Gonzalez/index.html",
-    "main.ec9cc455.css.map": "/Portfolio-Cristian-Gonzalez/static/css/main.ec9cc455.css.map",
-    "main.ce4a94bb.js.map": "/Portfolio-Cristian-Gonzalez/static/js/main.ce4a94bb.js.map",
+    "main.037b2612.css.map": "/Portfolio-Cristian-Gonzalez/static/css/main.037b2612.css.map",
+    "main.12025089.js.map": "/Portfolio-Cristian-Gonzalez/static/js/main.12025089.js.map",
     "787.30237536.chunk.js.map": "/Portfolio-Cristian-Gonzalez/static/js/787.30237536.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ec9cc455.css",
-    "static/js/main.ce4a94bb.js"
+    "static/css/main.037b2612.css",
+    "static/js/main.12025089.js"
   ]
 }
